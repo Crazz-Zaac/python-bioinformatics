@@ -1,3 +1,8 @@
+# dataset and pdf file
+TCGA-BRCA.GDC_phenotype.tsv
+TCGA-BRCA.htseq_fpkm.tsv
+project_instructions.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
